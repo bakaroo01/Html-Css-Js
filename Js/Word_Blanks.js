@@ -1,0 +1,11 @@
+// Word Blanks
+
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+
+const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Change this line
+console.log(wordBlanks); // Output: "The big dog ran quickly."
