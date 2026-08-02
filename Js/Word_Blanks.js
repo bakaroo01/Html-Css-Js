@@ -7,5 +7,5 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 
 
-const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Change this line
+const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
 console.log(wordBlanks); // Output: "The big dog ran quickly."
