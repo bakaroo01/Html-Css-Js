@@ -1,4 +1,4 @@
-// Returned Value 
+// Returned Value from a function
 
 
 // here's an example of a function that returns a value:
